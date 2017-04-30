@@ -1,0 +1,1 @@
+# labs-azure-scaling-template
